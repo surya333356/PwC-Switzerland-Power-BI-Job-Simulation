@@ -1,6 +1,8 @@
 # PwC-Switzerland-Power-BI-Job-Simulation
 ![image](https://github.com/user-attachments/assets/48d02087-31ea-4cb2-afdf-9b84d4926bd8)
 
+# Project Overview
+
 I just completed PwC Switzerland's Power BI on Forage. In the simulation I:
 Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
 Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
