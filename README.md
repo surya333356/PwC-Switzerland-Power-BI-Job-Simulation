@@ -11,6 +11,19 @@ Leveraged analytical problem-solving skills to examine HR data, particularly foc
  
 
 Check out the simulation here: https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg
+
+Here are the conclusions for each PwC Power BI dashboard:  
+
+### **1. Customer Churn Dashboard**  
+The analysis highlights key factors driving customer churn, including pricing, customer service issues, and product dissatisfaction. By identifying at-risk customers through predictive insights, businesses can implement targeted retention strategies, such as loyalty programs and personalized offers, to reduce churn and improve customer satisfaction.  
+
+### **2. Call Center Performance Dashboard**  
+The dashboard provides a comprehensive view of call center efficiency, including response times, resolution rates, and customer satisfaction scores. The insights suggest that reducing wait times, improving agent training, and optimizing resource allocation can enhance service quality and operational efficiency, leading to higher customer satisfaction and lower abandonment rates.  
+
+### **3. HR Inclusion & Diversity Dashboard**  
+This dashboard evaluates workforce diversity, employee engagement, and inclusion initiatives. The findings highlight areas for improvement in gender and ethnic representation, pay equity, and career progression. Organizations can leverage these insights to develop inclusive policies, foster a diverse workplace, and enhance employee retention and satisfaction.  
+
+Would you like a more detailed explanation or recommendations for each?
 # Churn Analysis Dashboard
 ![image](https://github.com/user-attachments/assets/82544d7c-323c-4985-9973-130ddf3cedec)
 
